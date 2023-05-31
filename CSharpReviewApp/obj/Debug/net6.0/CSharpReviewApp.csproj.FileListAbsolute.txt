@@ -1,0 +1,15 @@
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\bin\Debug\net6.0\CSharpReviewApp.exe
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\bin\Debug\net6.0\CSharpReviewApp.deps.json
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\bin\Debug\net6.0\CSharpReviewApp.runtimeconfig.json
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\bin\Debug\net6.0\CSharpReviewApp.dll
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\bin\Debug\net6.0\CSharpReviewApp.pdb
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.csproj.AssemblyReference.cache
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.AssemblyInfoInputs.cache
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.AssemblyInfo.cs
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.csproj.CoreCompileInputs.cache
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.dll
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\refint\CSharpReviewApp.dll
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.pdb
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\CSharpReviewApp.genruntimeconfig.cache
+C:\Users\risho\Source\Repos\CSharp_Review\CSharpReviewApp\obj\Debug\net6.0\ref\CSharpReviewApp.dll
