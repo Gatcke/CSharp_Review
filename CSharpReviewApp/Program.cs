@@ -1,4 +1,4 @@
-﻿Console.WriteLine("You need to learn faster");
+﻿/*Console.WriteLine("You need to learn faster");
 
 var testVar = "noob you suck";
 
@@ -35,4 +35,27 @@ int learnInt = 5;
 learnInt = learnInt + 1;
 learnInt += 5;
 
-Console.WriteLine(learnInt);
+Console.WriteLine(learnInt);*/
+
+//Typecasting - converting the datatypes
+
+double x = 0.213456;
+int b;
+
+//casting
+b =(int)x;
+Console.WriteLine(b);
+
+//Convertions from string to int
+string value = "123456879";
+int result = 0;
+
+if(int.TryParse(value, out result))
+{
+    Console.WriteLine("Success: " + result);
+}
+else
+{
+    Console.WriteLine("Failure.");
+}
+
