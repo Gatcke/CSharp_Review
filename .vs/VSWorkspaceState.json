@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpReviewApp"
   ],
-  "SelectedNode": "\\CSharpReviewApp.sln",
+  "SelectedNode": "\\CSharpReviewApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
