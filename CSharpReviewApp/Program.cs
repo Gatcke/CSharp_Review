@@ -39,23 +39,23 @@ Console.WriteLine(learnInt);*/
 
 //Typecasting - converting the datatypes
 
-double x = 0.213456;
-int b;
+//double x = 0.213456;
+//int b;
 
-//casting
-b =(int)x;
-Console.WriteLine(b);
+////casting
+//b =(int)x;
+//Console.WriteLine(b);
 
-//Convertions from string to int
-string value = "123456879";
-int result = 0;
+////Convertions from string to int
+//string value = "123456879";
+//int result = 0;
 
-if(int.TryParse(value, out result))
-{
-    Console.WriteLine("Success: " + result);
-}
-else
-{
-    Console.WriteLine("Failure.");
-}
+//if(int.TryParse(value, out result))
+//{
+//    Console.WriteLine("Success: " + result);
+//}
+//else
+//{
+//    Console.WriteLine("Failure.");
+//}
 
